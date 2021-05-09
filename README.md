@@ -1,5 +1,14 @@
 # Server Base - Proyecto ONG
 
+## About this proyect
+
+```
+These proyects were made posible thanks to Alkemy labs
+Know more: http://www.alkemy.org/
+LinkedIn: https://www.linkedin.com/company/alkemy2020/
+```
+
+
 ## Envinroment setup
 
 1. Create database
@@ -50,3 +59,6 @@ npx sequelize-cli db:seed --seed  20210323201915-test-users.js
 - Password: 123456
 
 ```
+
+
+
