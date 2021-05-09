@@ -33,14 +33,12 @@ module.exports = {
 
   STRING_TYPE: "",
   //Mail API KEY
-  SENGRID_API_KEY_TESTING:
-    "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",
-  SENGRID_API_KEY:
-    "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",
+  SENGRID_API_KEY_TESTING: "",
+  SENGRID_API_KEY: "",
 
   //Mailing data and fields
   COMPANY_MAIL: "", //Replace with validated mail from sengrid
-  COMPANY_MAIL_TESTING: "adway94@gmail.com", //Only for testing porpuse
+  COMPANY_MAIL_TESTING: "", //Only for testing porpuse
 
   //Register Mail
   MAIL_REGISTER_SUBJECT: "Regisro exitoso",
@@ -56,9 +54,9 @@ module.exports = {
 
   //Aws S3
   AWS_REGION: "sa-east-1",
-  AWS_ACCESS_KEY_ID: "AKIAX2K6IMK7P6G45VPN",
-  AWS_SECRET_ACCESS_KEY: "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",
-  AWS_BUCKET_NAME: "alkemy-ong",
+  AWS_ACCESS_KEY_ID: "",
+  AWS_SECRET_ACCESS_KEY: "",
+  AWS_BUCKET_NAME: "",
 
   // User is not an admin:
   USER_IS_NOT_AN_ADMIN: "El usuario no es administrador",
